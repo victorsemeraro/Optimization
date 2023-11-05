@@ -12,8 +12,4 @@
 
 #### - 
 
-## 3. <u> Miscellaneous </u>  
-
-#### -  Correlation
-
-#### - Copula 
+## 3. <u>  </u>  
